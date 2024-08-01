@@ -1,0 +1,17 @@
+.card{
+  border: 1px solid black;
+  text-align: center;
+  width: 300px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 8px;
+ 
+}
+
+.card img{
+  border-radius: 8px;
+}
+
+.card img:hover{
+  box-shadow: 3px 3px rgb(51, 49, 49);
+}
